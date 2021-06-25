@@ -2,6 +2,8 @@
 
 tarotfish is a very, very simple Fish script that allows you to draw a card from the standard Terot de Marseilles deck. 
 
+![Image of tarotfish](tarotfish.png)
+
 # Installation
 
 You can just run the script from wherever you run it. You may need to chmod +x the script, and the shebang line (the first line) may need to change. 
